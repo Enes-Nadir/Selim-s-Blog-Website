@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Selim's Blog 🩺📰  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Selim's Blog** repository! This project is a comprehensive health blog designed to provide readers with valuable information on various health topics, including diet, fitness, exercise, pregnancy, baby care, child health, aesthetics, and much more.  
 
-## Available Scripts
+## 📌 About Selim's Blog  
 
-In the project directory, you can run:
+**Selim's Blog** aims to deliver accurate and up-to-date health news and articles to its audience. The platform covers a wide range of topics to cater to diverse health interests and needs.  
 
-### `npm start`
+## ✨ Features  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📝 **Informative Articles:** In-depth articles on health-related topics such as diet, fitness, pregnancy, and child care.  
+- 🗂️ **Categorized Content:** Well-organized categories for easy navigation and access to desired information.  
+- 🔍 **Search Functionality:** Allows users to search for specific topics or articles.  
+- 📅 **Regular Updates:** Frequent posting of new content to keep readers informed.  
+- 🌐 **Social Media Integration:** Links to social media profiles for broader engagement.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🖼 Screenshots  
 
-### `npm test`
+Here are some previews of **Selim's Blog** website:  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Homepage Screenshot](/HomePage.png)  
+![New Blog Page Screenshot](/NewBlog.png)  
+![About Me Page Screenshot](/AboutMe.png)  
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Technologies Used  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js  
+- **Database:** MongoDB
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📩 Contact  
 
-### `npm run eject`
+For any inquiries or collaborations, feel free to reach out:  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+📧 Email: [enes.nadirt@gmail.com](mailto:enes.nadirt@gmail.com)  
+🌐 Website: [saglikmagazin.com](http://saglikmagazin.com/)  
+📍 Location: Vilnius, LT
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📜 License  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is licensed under the MIT License - feel free to modify and use it.  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---  
 
-## Learn More
+### 🔥 How to Contribute  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you'd like to contribute:  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Fork this repository.  
+2. Create a new branch (`feature-branch`).  
+3. Make your changes and commit them.  
+4. Push to your branch and submit a Pull Request.  
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Let's enhance **Selim's Blog** together! 🩺📰  
